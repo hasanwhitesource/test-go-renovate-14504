@@ -13,5 +13,5 @@ require (
 )
 
 replace (
-	k8s.io/client-go => k8s.io/client-go v0.21.9
+	k8s.io/client-go => k8s.io/client-go v0.21.0
 )
